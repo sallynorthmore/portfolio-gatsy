@@ -13,5 +13,13 @@
     "netlify-cms": "^2.1.2",
     "react": "^16.5.1",
     "react-dom": "^16.5.1"
+  },
+  "devDependencies": {
+    "eslint": "^4.17.0",
+    "eslint-plugin-prettier": "^2.6.0",
+    "eslint-plugin-react": "^7.6.1",
+    "prettier": "1.8.2",
+    "stylelint": "^8.4.0",
+    "stylelint-config-recommended": "^2.0.1"
   }
 }
