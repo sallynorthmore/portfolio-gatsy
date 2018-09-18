@@ -1,3 +1,8 @@
-import React from "react"
+import React from 'react';
+import Banner from '../components/banner';
 
-export default () => <div>Hello world!</div>
+export default function Home() {
+	return <Banner />;
+}
+
+Home.displayName = 'Home';
